@@ -1,4 +1,5 @@
-# EXPO
-EXPO CRM/ERP application
+# SOMM
+SOMM CRM/ERP application
 
-Current EXPO application uses v15 admin file and has custom header
+Current SOMM application uses v15 admin file and has custom header
+Local repo is expo3v2
